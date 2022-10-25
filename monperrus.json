@@ -1047,5 +1047,8 @@
   "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Cookiebot/1.0; +http://cookiebot.com/) Chrome/97.0.4692.71 Safari/537.36",
   "Mozilla/5.0 (compatible; trovitBot 1.0; +http://www.trovit.com/bot.html)",
   "Mozilla/5.0 (compatible; Adsbot/3.1; +https://seostar.co/robot/)",
-  "IonCrawl (https://www.ionos.de/terms-gtc/faq-crawler-en/)"
+  "IonCrawl (https://www.ionos.de/terms-gtc/faq-crawler-en/)",
+  "Uptime-Kuma/1.18.0",
+  "Mozilla/5.0 (compatible; SeekportBot; +https://bot.seekport.com)",
+  "FreshpingBot/1.0 (+https://freshping.io/)"
 ]
