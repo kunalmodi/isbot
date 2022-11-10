@@ -38,6 +38,7 @@
   "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
   "Mozilla/5.0 (seoanalyzer; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
   "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Safari/537.36",
+  "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36",
   "Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)",
   "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)",
   "Mozilla/5.0 (compatible; Yahoo! Slurp China; http://misc.yahoo.com.cn/help.html)",
@@ -531,6 +532,7 @@
   "Mozilla/5.0 (compatible; SemrushBot/0.98~bl; +http://www.semrush.com/bot.html)",
   "Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)",
   "Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)",
+  "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)",
   "SEMrushBot",
   "Mozilla/5.0 (compatible; yoozBot-2.2; http://yooz.ir; info@yooz.ir)",
   "Mozilla/5.0 (compatible; Lipperhey Link Explorer; http://www.lipperhey.com/)",
@@ -1001,6 +1003,7 @@
   "Mozilla/5.0 (compatible; NIXStatsbot/1.1; +http://www.nixstats.com/bot.html)",
   "RSSMicro.com RSS/Atom Feed Robot",
   "Curebot/1.0",
+  "curebot-feed-fetcher",
   "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 (compatible; PagePeeker/3.0; +https://pagepeeker.com/robots/)",
   "Mozilla/5.0 (compatible; Vigil/1.0; +http://vigil-app.com/bot.html)",
   "rssbot/1.4.3 (+https://t.me/RustRssBot)",
@@ -1050,5 +1053,6 @@
   "IonCrawl (https://www.ionos.de/terms-gtc/faq-crawler-en/)",
   "Uptime-Kuma/1.18.0",
   "Mozilla/5.0 (compatible; SeekportBot; +https://bot.seekport.com)",
-  "FreshpingBot/1.0 (+https://freshping.io/)"
+  "FreshpingBot/1.0 (+https://freshping.io/)",
+  "Feedbin feed-id:2005098 - 2 subscribers"
 ]
