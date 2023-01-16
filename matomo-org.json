@@ -669,5 +669,6 @@
   "DisqusAdstxtCrawler/0.1 (+https://help.disqus.com/en/articles/1765357-ads-txt-implementation-guide)",
   "Mozilla/5.0 (compatible; startmebot/1.0; +https://start.me/bot)",
   "2ip bot/1.1 (+http://2ip.io)",
-  "ReqBin Curl Client/1.0"
+  "ReqBin Curl Client/1.0",
+  "Mozilla/5.0 (compatible; XoviBot/2.0; +http://www.xovibot.net/)"
 ]
