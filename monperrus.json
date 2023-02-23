@@ -1055,5 +1055,10 @@
   "Mozilla/5.0 (compatible; SeekportBot; +https://bot.seekport.com)",
   "FreshpingBot/1.0 (+https://freshping.io/)",
   "Feedbin feed-id:2005098 - 2 subscribers",
-  "Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robots"
+  "CriteoBot/0.1 (+https://www.criteo.com/criteo-crawler/)",
+  "Snap URL Preview Service; bot; snapchat; https://developers.snap.com/robots",
+  "Better Uptime Bot Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
+  "RuxitSynthetic/1.0",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36 (compatible; Google-Read-Aloud; +https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)",
+  "Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)"
 ]
