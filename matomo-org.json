@@ -686,5 +686,7 @@
   "Uptime-Kuma/1.21.2",
   "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
   "BrightEdge Crawler/1.0 (crawler@brightedge.com)",
-  "sfFeedReader/0.9"
+  "sfFeedReader/0.9",
+  "HatenaBookmark/4.0 (Hatena::Bookmark; Analyzer)",
+  "MoodleBot-LinkChecker (+https://docs.moodle.org/en/Usage)"
 ]

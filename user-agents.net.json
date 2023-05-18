@@ -25031,5 +25031,20 @@
   "WordPress/6.2; https://teknokrat.ml",
   "WordPress/6.2; https://teknokrat.gq",
   "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/113.0.5672.63 Safari/537.36",
-  "Mozilla/5.0 AppleWebKit/537.36 (KHTML%2C like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/112.0.5615.142 Safari/537.36"
+  "Mozilla/5.0 AppleWebKit/537.36 (KHTML%2C like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/112.0.5615.142 Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 8.1.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36 PTST/230504.140356",
+  "U2FsdGVkX1954Y2z19FhmfNdROkTO0B7jXXfsT1oIt+Cb9Fq9YDfJZAb3l+POvarU9QnvtXIybz1qfAPnTkzy5EooiHAnp8C7P3Ae+pCZZHRqmwondYrPZeusfMBpof8W8Q3HDz4ifLYoLxQIQjXtGI93junr1OR0As8HfVk4pIrQcbbJkg0N1BKzJkhelgXQoPMRBnozADzJgXRE6bGIlWDDxn3gkCp88YQcvua9evWsfE/hHDMoiSKHF/8ayr0LClYbnuYwb911pRu8+pTD1lcddXZLWySFj3Bu9CeYbQ=",
+  "Scrapy/2.9.0 (+https://scrapy.org)",
+  "UnityPlayer/2021.3.2f1 (UnityWebRequest/1.0, libcurl/7.80.0-DEV)",
+  "aws-sdk-java/2.20.62 Linux/5.10.177-158.645.amzn2.x86_64 OpenJDK_64-Bit_Server_VM/25.322-b06 Java/1.8.0_322 vendor/Temurin exec-env/AWS_ECS_FARGATE io/sync http/Apache cfg/retry-mode/legacy",
+  "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/113.0.5672.63 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 8.0.0; SM-G965U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.63 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+  "python-requests/2.9.3",
+  "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/113.0.5672.92 Safari/537.36",
+  "WordPress/6.2; https://travelideas.cn",
+  "Mozilla/5.0 (compatible; oBot/3.3.1; +http://filterdb.iss.net/crawler/)",
+  "LWP::Simple/6.52 libwww-perl/6.52",
+  "GoogleAuth/1.4 (SW4H_FF QTG3.200617.002); gzip,gzip(gfe),gzip(gfe)",
+  "WordPress/5.3.2; https://euro-residence.com",
+  "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/115.0.5776.0 Safari/537.36"
 ]
